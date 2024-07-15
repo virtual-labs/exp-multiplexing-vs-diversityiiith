@@ -1,1 +1,1 @@
-## Experiment name
+## Multiplexing vs. Diversity
