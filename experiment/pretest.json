@@ -11,7 +11,7 @@
         "d": "Multiplexing mitigates fading effects by utilizing independent fading paths between antennas."
       },
       "explanations": {
-        "a": "Please try again.. Multiplexing increases the data rate by sending parallel streams of data"
+        "a": "Please try again.. Multiplexing increases the data rate by sending parallel streams of data",
         "b": "Please try again.. Diversity improves reliability by using multiple antennas to mitigate fading effects.",
         "c": "Correct!",
         "d": "Please try again.. Multiplexing increases the data rate by sending parallel streams of data"
